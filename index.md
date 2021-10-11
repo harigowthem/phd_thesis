@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## 3.8	Bioinformatics analyses pipeline for QTLseq
 
 You can use the [editor on GitHub](https://github.com/harigowthem/qtl-seq.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
